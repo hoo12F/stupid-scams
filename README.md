@@ -38,3 +38,6 @@ Some stupid scams that will end up downloading a harmless virus on your computer
   - `free-ram`
 - Vbux Generator:
   - `free-vbux`
+
+## Templates
+[Issue Template](https://github.com/hoo12F/stupid-scams/issues/2)
