@@ -6,7 +6,7 @@ Some stupid scams that will end up downloading a harmless virus on your computer
 **Free Vbux**: Commissioned by Gabbi
 <br>
 
-*Want to commission too? make an issue!*
+*Want to commission too? make an issue! (or just tell me directly but issues are perferred)*
 
 ## Release log
 **Current Version**: 1.0.0
