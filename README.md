@@ -9,10 +9,12 @@ Some stupid scams that will end up downloading a harmless virus on your computer
 *Want to commission too? make an issue! (or just tell me directly but issues are perferred)*
 
 ## Release log
-**Current Version**: 1.0.0
+**Current Version**: 1.0.0-S1
 <br>
 
 **Latest Edit**: Added 3 new Stupid Scams
+
+**Season**: Season 1, JUN 2022
 
 ## Installation
 1. Press on the code button.
