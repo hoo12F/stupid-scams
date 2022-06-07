@@ -21,13 +21,9 @@ Some stupid scams that will end up downloading a harmless virus on your computer
 4. Click on one of the stupid scam's folders.
 5. Click on the file `index.html`
 ## Available
-*Robux generator*: Not commissioned.
-<br>
-
-*Ram Generator*: Not comissioned.
-<br>
-
-*Vbux generator*: Commissioned by Gabbi
+- Robux Generator
+- Ram Generator
+- Vbux Generator
 
 ### Folder names
 - Robux Generator:
