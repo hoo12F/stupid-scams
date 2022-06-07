@@ -2,7 +2,7 @@
 Some stupid scams that will end up downloading a harmless virus on your computer that can be deactivated once your computer is shut down.
 **PLEASE DONT USE THIS TO TRICK ANYONE.** unless you tell them it's a harmless virus and deactivate it for them.
 
-## Commissioner Board
+## Commissioner-Board
 **Free Vbux**: Commissioned by Gabbi
 <br>
 
