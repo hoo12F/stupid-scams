@@ -38,11 +38,9 @@ Some stupid scams that will end up downloading a harmless virus on your computer
 <br>
 
 *Free among us skins*: Not commissioned.
-=======
 - Robux Generator
 - Ram Generator
 - Vbux Generator
->>>>>>> 3198eb5592a7a083fb0142e62844fccd7ac0374f
 
 ### Folder names
 - Robux Generator:
@@ -51,11 +49,8 @@ Some stupid scams that will end up downloading a harmless virus on your computer
   - `free-ram`
 - Vbux Generator:
   - `free-vbux`
-<<<<<<< HEAD
 - Free Among us Skins:
   - `free-amongus-skins`
-=======
 
 ## Templates
 [Issue Template](https://github.com/hoo12F/stupid-scams/issues/2)
->>>>>>> 3198eb5592a7a083fb0142e62844fccd7ac0374f
