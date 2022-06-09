@@ -28,6 +28,9 @@ Some stupid scams that will end up downloading a harmless virus on your computer
 <br>
 
 *Vbux generator*: Commissioned by Gabbi
+<br>
+
+*Free among us skins*: Not commissioned.
 
 ### Folder names
 - Robux Generator:
@@ -36,3 +39,5 @@ Some stupid scams that will end up downloading a harmless virus on your computer
   - `free-ram`
 - Vbux Generator:
   - `free-vbux`
+- Free Among us Skins:
+  - `free-amongus-skins`

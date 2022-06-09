@@ -1,0 +1,26 @@
+body {
+    font-family: 'Comic Sans MS', cursive;
+    color: red;
+    text-align: center;
+}
+
+input[type="text"] {
+    font-family: 'Comic Sans MS', cursive;
+    text-indent: 10px;
+    width: 300px;
+    height: 30px;
+}
+
+button {
+    background: red;
+    color: black;
+    height: 35px;
+    border-radius: 5px;
+    border: transparent;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    background: rgb(218, 0, 0);
+}
